@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- ماه‌بانو | اسپرایت آیکن‌ها. viewBox 24، stroke 1.7، سر گرد، بدون fill.
+     کلاس MB_UI::icon() همین مسیرها را درون‌خطی رندر می‌کند؛ این فایل برای
+     استفاده در manifest/PWA و ابزارهای طراحی نگه داشته شده است. -->
+<svg xmlns="http://www.w3.org/2000/svg" style="display:none" aria-hidden="true">
+	<defs>
+		<linearGradient id="mb-gold" x1="0" y1="0" x2="1" y2="1">
+			<stop offset="0" stop-color="#FDEFC4"/><stop offset=".38" stop-color="#E7C877"/>
+			<stop offset=".78" stop-color="#C79A3E"/><stop offset="1" stop-color="#9C7228"/>
+		</linearGradient>
+	</defs>
+	<symbol id="mb-heart" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M12 20s-7-4.35-7-9.5A4.5 4.5 0 0 1 12 7a4.5 4.5 0 0 1 7 3.5C19 15.65 12 20 12 20Z"/></symbol>
+	<symbol id="mb-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M20 14.5A8 8 0 0 1 9.5 4a7 7 0 1 0 10.5 10.5Z"/></symbol>
+	<symbol id="mb-cal" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="3.5" y="5" width="17" height="15" rx="3"/><path d="M8 3.5v3M16 3.5v3M3.5 10h17"/></symbol>
+	<symbol id="mb-chart" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M5 19V9M12 19V5M19 19v-7"/></symbol>
+	<symbol id="mb-lock" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="5" y="10.5" width="14" height="9.5" rx="2.6"/><path d="M8.5 10.5V8a3.5 3.5 0 0 1 7 0v2.5"/></symbol>
+	<symbol id="mb-spark" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l1.8 5.2L19 10l-5.2 1.8L12 17l-1.8-5.2L5 10l5.2-1.8Z"/></symbol>
+</svg>
